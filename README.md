@@ -9,6 +9,5 @@
 ## 4. [Тестовая документация](https://docs.google.com/spreadsheets/d/1nEqx0GARFUQnJBvMa_aKwbVqHDpDzcgf/edit?usp=sharing&ouid=117659471830182920163&rtpof=true&sd=true)
 
 ## 5. [Отчет тестового прогона](https://drive.google.com/file/d/11-1rwuAyxIH9vooiMWsI3U9tOhrQv6i8/view?usp=sharing)
-## https://docs.google.com/spreadsheets/d/1nEqx0GARFUQnJBvMa_aKwbVqHDpDzcgf/edit?usp=sharing&ouid=117659471830182920163&rtpof=true&sd=true
-"Отчет тестового прогона"
-https://drive.google.com/file/d/11-1rwuAyxIH9vooiMWsI3U9tOhrQv6i8/view?usp=sharing
+
+## 6. [RUN](https://drive.google.com/file/d/11-1rwuAyxIH9vooiMWsI3U9tOhrQv6i8/view?usp=sharing)
