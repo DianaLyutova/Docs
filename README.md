@@ -10,4 +10,4 @@
 
 ## 5. [Отчет тестового прогона](https://drive.google.com/file/d/11-1rwuAyxIH9vooiMWsI3U9tOhrQv6i8/view?usp=sharing)
 
-## 6. [RUN](https://drive.google.com/file/d/11-1rwuAyxIH9vooiMWsI3U9tOhrQv6i8/view?usp=sharing)
+## 6. [Тестовый прогон](https://drive.google.com/file/d/11-1rwuAyxIH9vooiMWsI3U9tOhrQv6i8/view?usp=sharing)
